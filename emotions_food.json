@@ -1,0 +1,102 @@
+{
+    "happy": [
+        "Ice Cream",
+        "Pizza",
+        "Sushi",
+        "Cupcakes",
+        "Fried Chicken",
+        "Pancakes",
+        "Smoothie Bowl",
+        "Chocolate Cake"
+    ],
+    "sad": [
+        "Chocolate",
+        "Pasta",
+        "Comfort Soup",
+        "Mashed Potatoes",
+        "Mac and Cheese",
+        "Ramen",
+        "Brownies",
+        "Grilled Cheese"
+    ],
+    "angry": [
+        "Green Tea",
+        "Smoothie",
+        "Salad",
+        "Hummus with Veggies",
+        "Lemon Water",
+        "Avocado Toast",
+        "Dark Chocolate",
+        "Herbal Tea"
+    ],
+    "surprised": [
+        "Cupcake",
+        "Fries",
+        "Tacos",
+        "Spring Rolls",
+        "Cheesecake",
+        "Loaded Nachos",
+        "Donuts",
+        "Churros"
+    ],
+    "neutral": [
+        "Cookies",
+        "Sandwich",
+        "Fruit Bowl",
+        "Yogurt Parfait",
+        "Bagels",
+        "Veggie Wraps",
+        "Granola Bars",
+        "Muffins"
+    ],
+    "excited": [
+        "Bubble Tea",
+        "Waffles",
+        "Burgers",
+        "Milkshakes",
+        "Garlic Bread",
+        "Loaded Pizza",
+        "Chocolate Fondue",
+        "Popcorn"
+    ],
+    "bored": [
+        "Popcorn",
+        "Trail Mix",
+        "Energy Bars",
+        "Samosa",
+        "Tortilla Chips",
+        "Quesadillas",
+        "Potato Wedges",
+        "Mini Pizzas"
+    ],
+    "fear": [
+        "Hot Chocolate",
+        "Comfort Soup",
+        "Chicken Broth",
+        "Apple Pie",
+        "Warm Cookies",
+        "Oatmeal",
+        "Biscuits",
+        "Spaghetti"
+    ],
+    "confused": [
+        "Ramen",
+        "Dim Sum",
+        "Pho",
+        "Sushi",
+        "Croissant",
+        "Falafel Wrap",
+        "Bruschetta",
+        "Stir Fry"
+    ],
+    "calm": [
+        "Herbal Tea",
+        "Salad",
+        "Smoothies",
+        "Oatmeal Bowl",
+        "Soup",
+        "Rice and Vegetables",
+        "Fresh Juice",
+        "Quinoa Bowl"
+    ]
+}
