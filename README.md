@@ -39,28 +39,28 @@ This project is a smart web application that detects user emotions using facial 
 
 ## 📌 Installation & Setup
 
-Clone the project
+Clone the project:
 
 ```bash
 git clone https://github.com/yourusername/Emotion-Based-Meal-Recommendations-App.git
 
 ```
 
-Go to the project directory
+Go to the project directory:
 
 ```bash
 cd Emotion-Based-Meal-Recommendations-App
 
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 
 ```
 
-Start the server
+Start the server:
 
 ```bash
 python app.py
