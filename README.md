@@ -42,14 +42,14 @@ This project is a smart web application that detects user emotions using facial 
 Clone the project:
 
 ```bash
-git clone https://github.com/yourusername/Emotion-Based-Meal-Recommendations-App.git
+git clone https://github.com/yourusername/Emotion-Based-Meal-Recommendation-App.git
 
 ```
 
 Go to the project directory:
 
 ```bash
-cd Emotion-Based-Meal-Recommendations-App
+cd Emotion-Based-Meal-Recommendation-App
 
 ```
 
